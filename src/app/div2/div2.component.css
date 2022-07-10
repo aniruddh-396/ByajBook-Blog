@@ -1,0 +1,19 @@
+h1{
+    color:green;
+    text-align:center;
+}
+#leftbox {
+    float:left; 
+    background:rgb(217, 142, 142);
+    width:60%;
+    height:280px;
+    padding-left: 100px;
+}
+
+#rightbox{
+    float:right;
+    background:rgb(195, 195, 220);
+    width:40%;
+    height:280px;
+    padding-right: 100px;
+}
